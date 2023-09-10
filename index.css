@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+#firstb{
+    width: 100%;
+    height: 60vh;
+    background-image: url(paul-weaver-nWidMEQsnAQ-unsplash.jpg);
+    background-size: cover;
+    background-position:50% 67% ;
+}
+
+
+
+nav ul{
+    color: white;
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    display: flex;
+    justify-content: end;
+    text-indent: 48px;
+    font-size: 21px;
+    
+}
+span{
+    color: white;
+    position: absolute;
+    margin-left: 23px;
+    font-size: 21px;
+    font-weight: bold;
+}
+#firstbdiv{
+    color: white;
+   margin:auto;
+   height: 70%;
+   width: 40%;
+   padding: 120px;
+}
+#def{
+    font-size: 49px;
+}
+#para{
+    font-size: 18px;
+}
+.btn{
+    padding:10px;
+    border-color: white;
+    text-align: center;
+    background: none;
+    border-radius:23px ;
+    font-size:16px;
+    color:white;
+}
